@@ -1,22 +1,10 @@
-# Hi, COLA king here!
+# :wave: Hey, COLA king here!
 
-<!--
-**Jiale-Zhao/Jiale-Zhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior high school student now and I started programming when I was twelve!
+I think it will be my lifelong hobby!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Jiale-Zhao 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiale-Zhao&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiale-Zhao&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Jiale-Zhao 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiale-Zhao&theme=synthwave&show_icons=true&hide_border=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiale-Zhao&theme=synthwave&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+enjoy your coding time!
