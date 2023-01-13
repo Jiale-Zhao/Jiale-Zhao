@@ -11,8 +11,6 @@ I think it will be my lifelong hobby!
 
 
 ## Github stats
- [![Jiale-Zhao 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiale-Zhao&theme=synthwave&show_icons=true&hide_border=true&line_height=27&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiale-Zhao&theme=synthwave&hide_border=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
+[![COLA king's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiale-Zhao&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 enjoy your coding time!
