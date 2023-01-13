@@ -11,7 +11,7 @@ I think it will be my lifelong hobby!
 
 
 ## Github stats
-![COLA king's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiale-Zhao&show_icons=true&theme=radical&hide_border=true)
+![COLA king 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiale-Zhao&show_icons=true&theme=radical&hide_border=true)
 
 
 enjoy your coding time!
