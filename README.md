@@ -1,4 +1,4 @@
-# :wave: Hey, COLA king here!
+# :wave: Hey, Cola king here!
 
 I'm a junior high school student now and I started programming when I was twelve!
 I think it will be my lifelong hobby!
